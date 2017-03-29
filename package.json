@@ -1,0 +1,13 @@
+{
+  "name": "node-trilateration",
+  "version": "1.0.0",
+  "description": "Node module performing trilateration calculations.",
+  "main": "index.js",
+  "author": "Mustafa Berberoglu <mustafaberberoglu@gmail.com>",
+  "license": "MIT",
+  "contributors": [{
+    "name": "Phil Plückthun",
+    "email": "phil@plckthn.me"
+  }],
+  "repository": "git@github.com:mberberoglu/node-trilateration.git"
+}
